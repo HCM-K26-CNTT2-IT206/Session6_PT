@@ -1,9 +1,5 @@
 # Báo cáo: So sánh trade-off các giải pháp ra lệnh cho ứng dụng AI trong học tập và nghiên cứu
 
-**Họ tên:** …………………………  
-**Môn/Lớp:** …………………………  
-**Ngày:** 20/11/2026
-
 ## 1. Mục tiêu và phạm vi
 
 Báo cáo so sánh hai cách viết prompt cho một ứng dụng AI hỗ trợ học tập và nghiên cứu, tập trung vào hai chức năng:
